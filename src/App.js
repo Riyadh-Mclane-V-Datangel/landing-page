@@ -96,8 +96,9 @@ const LandingPage = () => {
       </div>
 
       <div className="button-wrapper">
-        <a href="https://riyadh-mclane-v-datangel.github.io/room-page/" className="button">"Learn More &#8594;</a>
-      </div>
+    <a href="https://riyadh-mclane-v-datangel.github.io/landing-page2/">
+        <input type="button" className="button" value="Learn More &#8594;" /></a>
+    </div>    
 
 
       <div id="pre-selling" className="row">
