@@ -75,7 +75,7 @@ const LandingPage = () => {
             <li><a href="#pre-selling" className="menu-btn">Residence</a></li>
             <li><a href="#news-events" className="menu-btn">News</a></li>
             <li><a href="#message-us" className="menu-btn">Contact Us</a></li>
-            <li><a href="https://riyadh-mclane-v-datangel.github.io/sign-in//" className="menu-btn">Sign Up</a></li>
+            <li><a href="http://riyadh-mclane-v-datangel.github.io/sign-in//" className="menu-btn">Sign Up</a></li>
           </ul>
           <div className="menu-btn">
             <em className="fas fa-bars"></em>
