@@ -206,7 +206,7 @@ const LandingPage = () => {
           <a href="https://www.facebook.com/profile.php?id=61559157250820"><img src={fb} alt="" width="35px" /></a>
           </div>
           <div className="insta">
-          <a href="https://www.instagram.com/irisclanetowerinc/"><img src={insta} alt="" width="33px" /></a>
+          <a href="https://www.instagram.com/irisclanetowerinc/"><img src={insta} alt="" width="28px" /></a>
           </div>
           <div className="linkedin">
           <a href="linkedin.com/in/iris-clane-incorporated-691632308"><img src={linkedin} alt="" width="31px" /></a>
