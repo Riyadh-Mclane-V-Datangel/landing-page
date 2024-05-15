@@ -71,7 +71,7 @@ const LandingPage = () => {
         <div className="max-width">
           <div className="logo"><img alt="" src={irisLogo} width="500" /></div>
           <ul className="menu">
-            <li><a href="#container" className="menu-btn">About Us</a></li>
+            <li><a href="#containerhttps://riyadh-mclane-v-datangel.github.io/landing-page2/" className="menu-btn">About Us</a></li>
             <li><a href="#pre-selling" className="menu-btn">Residence</a></li>
             <li><a href="#news-events" className="menu-btn">News</a></li>
             <li><a href="#message-us" className="menu-btn">Contact Us</a></li>
