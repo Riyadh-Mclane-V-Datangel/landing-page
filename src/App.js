@@ -96,7 +96,7 @@ const LandingPage = () => {
       </div>
 
       <div className="button-wrapper">
-        <a href="https://riyadh-mclane-v-datangel.github.io/landing-page2/" className="button">"Learn More &#8594;</a>
+        <a href="https://riyadh-mclane-v-datangel.github.io/room-page/" className="button">"Learn More &#8594;</a>
       </div>
 
 
